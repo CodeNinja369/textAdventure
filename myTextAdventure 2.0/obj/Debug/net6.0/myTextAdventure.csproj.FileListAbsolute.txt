@@ -1,0 +1,57 @@
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\myTextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\myTextAdventure.AssemblyInfoInputs.cache
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\myTextAdventure.AssemblyInfo.cs
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\myTextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\ALL0029\Downloads\myTextAdventure\bin\Debug\net6.0\myTextAdventure.exe
+C:\Users\ALL0029\Downloads\myTextAdventure\bin\Debug\net6.0\myTextAdventure.deps.json
+C:\Users\ALL0029\Downloads\myTextAdventure\bin\Debug\net6.0\myTextAdventure.runtimeconfig.json
+C:\Users\ALL0029\Downloads\myTextAdventure\bin\Debug\net6.0\myTextAdventure.dll
+C:\Users\ALL0029\Downloads\myTextAdventure\bin\Debug\net6.0\myTextAdventure.pdb
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\myTextAdventure.dll
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\refint\myTextAdventure.dll
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\myTextAdventure.pdb
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\myTextAdventure.genruntimeconfig.cache
+C:\Users\ALL0029\Downloads\myTextAdventure\obj\Debug\net6.0\ref\myTextAdventure.dll
+U:\software dev\myTextAdventure\bin\Debug\net6.0\myTextAdventure.exe
+U:\software dev\myTextAdventure\bin\Debug\net6.0\myTextAdventure.deps.json
+U:\software dev\myTextAdventure\bin\Debug\net6.0\myTextAdventure.runtimeconfig.json
+U:\software dev\myTextAdventure\bin\Debug\net6.0\myTextAdventure.dll
+U:\software dev\myTextAdventure\bin\Debug\net6.0\myTextAdventure.pdb
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.csproj.AssemblyReference.cache
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.AssemblyInfoInputs.cache
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.AssemblyInfo.cs
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.csproj.CoreCompileInputs.cache
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.dll
+U:\software dev\myTextAdventure\obj\Debug\net6.0\refint\myTextAdventure.dll
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.pdb
+U:\software dev\myTextAdventure\obj\Debug\net6.0\myTextAdventure.genruntimeconfig.cache
+U:\software dev\myTextAdventure\obj\Debug\net6.0\ref\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\bin\Debug\net6.0\myTextAdventure.exe
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\bin\Debug\net6.0\myTextAdventure.deps.json
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\bin\Debug\net6.0\myTextAdventure.runtimeconfig.json
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\bin\Debug\net6.0\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\bin\Debug\net6.0\myTextAdventure.pdb
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\myTextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\myTextAdventure.AssemblyInfoInputs.cache
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\myTextAdventure.AssemblyInfo.cs
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\myTextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\refint\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\myTextAdventure.pdb
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\myTextAdventure.genruntimeconfig.cache
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure\obj\Debug\net6.0\ref\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\bin\Debug\net6.0\myTextAdventure.exe
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\bin\Debug\net6.0\myTextAdventure.deps.json
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\bin\Debug\net6.0\myTextAdventure.runtimeconfig.json
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\bin\Debug\net6.0\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\bin\Debug\net6.0\myTextAdventure.pdb
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\myTextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\myTextAdventure.AssemblyInfoInputs.cache
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\myTextAdventure.AssemblyInfo.cs
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\myTextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\refint\myTextAdventure.dll
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\myTextAdventure.pdb
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\myTextAdventure.genruntimeconfig.cache
+C:\Users\ALL0029\Documents\Year 12 Software Developement\myTextAdventure 2.0\obj\Debug\net6.0\ref\myTextAdventure.dll
