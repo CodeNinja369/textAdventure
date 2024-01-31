@@ -2,7 +2,7 @@
 
 namespace myTextAdventure
 {
-
+    
     class Player
     {
         public string Name { get; set; }
@@ -195,6 +195,7 @@ namespace myTextAdventure
                 room_history.Push(currentState.Name);
             }
 
+            //creating compass to allow user to understand which direction they're going
             string compass = @"
     N    
 W       E
@@ -407,6 +408,7 @@ W       E
         static void finalFullMap()
         {
             StringBuilder result = new StringBuilder();
+            //arrays holding each line of rooms so the maps are right
             Room[] maps0 = { room_5, wall, room_8, wall, wall, room_20};
             Room[] maps1 = { room_2, room_3, room_6, room_7, wall, room_19};
             Room[] maps2 = { room_1, room_4, room_9, wall, wall, room_18};
